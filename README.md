@@ -18,7 +18,12 @@
 <p>This project is a simple HTML/CSS implementation of a nutrition label, styled to resemble a real-world nutrition facts label found on packaged food products.</p>
 
 <h2 id="project-structure">Project Structure</h2>
-<p>Describe the structure of your project here.</p>
+<p>The project structure includes:</p>
+<ul>
+    <li>index.html</li>
+    <li>styles.css</li>
+    <li>README.md</li>
+</ul>
 
 <h2 id="features">Features</h2>
 <ul>
