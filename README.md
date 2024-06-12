@@ -1,4 +1,4 @@
-<h1>Project Title</h1>
+<h1>Nurition Label</h1>
 <p>This project is a simple HTML/CSS implementation of a nutrition label, styled to resemble a real-world nutrition facts label found on packaged food products.</p>
 
 <h2>Table of Content</h2>
